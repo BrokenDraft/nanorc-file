@@ -14,4 +14,4 @@
 
 * give the appropriate permissions to the "add_nanorc" script file, and execute it : 
 
-# ./add_nanorc
+\# ./add_nanorc

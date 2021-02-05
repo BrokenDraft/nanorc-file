@@ -106,7 +106,7 @@ set nowrap
 # set operatingdir ""
 
 ## Remember the cursor position in each file for the next editing session.
-# set positionlog
+set positionlog
 ## (The old form, 'poslog', is deprecated.)
 
 ## Preserve the XON and XOFF keys (^Q and ^S).
@@ -148,7 +148,7 @@ set nowrap
 ## will jump to that beginning (either forwards or backwards).  If the
 ## cursor is already at that position, it will jump to the true
 ## beginning of the line.
-# set smarthome
+set smarthome
 
 ## Use smooth scrolling as the default.
 # set smooth

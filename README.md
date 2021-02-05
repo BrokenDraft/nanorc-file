@@ -9,6 +9,11 @@
 
 *  Mouse interaction when possible.
 
+*  Show linenumbers
+
+*  Remember the cursor position
+
+*  Set smarthome, home key will move the cursor to the beggining of the word/line
 
 **How to set it up automatically?**
 

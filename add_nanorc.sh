@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo rm /etc/nanorc ; sudo cp nanorc /etc/nanorc
+sudo cat add_nanorc >> /etc/nanorc
